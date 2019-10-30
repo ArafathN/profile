@@ -4,7 +4,7 @@
 body {
 font-family: 'Open Sans', sans-serif;
 font-weight: lighter;
-background-color: #f8f8f8
+background-color: #ffbbb4
 }
 
 h1, h2, h3 {
@@ -44,13 +44,10 @@ div {
 }
 
 .container {
- width: 135%;
+ width: 1200px;
  margin: 20px auto;
- padding: -17%;
- margin: -19%;
 
 }
-
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
